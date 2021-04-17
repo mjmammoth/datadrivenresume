@@ -106,16 +106,7 @@ CV %<>% print_section("professional_experience")
 
 
 
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section("education")
-```
-
-
-
-Training and Courses Attended {data-icon=users-class}
+Training and Courses Attended {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -124,7 +115,7 @@ CV %<>% print_section("training_attended")
 
 
 
-Certificates Awarded {data-icon=file-certificate}
+Certificates Awarded {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
 ::: aside
@@ -136,6 +127,17 @@ CV %<>% print_text_block("certificates_awarded_aside")
 ```{r}
 CV %<>% print_section("certificates_awarded")
 ```
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section("education")
+```
+
+
 
 <!-- These breaks just force a new page so section doesnt get cut off -->
 <br>
