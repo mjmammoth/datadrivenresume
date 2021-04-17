@@ -75,23 +75,12 @@ CV %>% print_contact_info()
 
 
 
-Language Skills {#skills}
+Programming Language Proficiency {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %>% print_skill_bars()
 ```
-
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
-
-The source code is available [on github.com/nstrayer/cv]({{{source_location}}}).
-
-Last updated on `r Sys.Date()`.
 
 
 
