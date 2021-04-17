@@ -112,7 +112,7 @@ Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('professional_experience')
+CV %<>% print_section("professional_experience")
 ```
 
 
@@ -121,7 +121,7 @@ Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('education')
+CV %<>% print_section("education")
 ```
 
 
@@ -130,7 +130,7 @@ Training and Courses Attended {data-icon=users-class}
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('training_attended')
+CV %<>% print_section("training_attended")
 ```
 
 
@@ -140,12 +140,12 @@ Certificates Awarded {data-icon=file-certificate}
 
 ::: aside
 ```{r}
-CV %<>% print_text_block('certificates_awarded_aside')
+CV %<>% print_text_block("certificates_awarded_aside")
 ```
 :::
 
 ```{r}
-CV %<>% print_section('certificates_awarded')
+CV %<>% print_section("certificates_awarded")
 ```
 
 <!-- These breaks just force a new page so section doesnt get cut off -->
@@ -157,6 +157,6 @@ Language {data-icon=language}
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('language')
+CV %<>% print_section("language")
 ```
 
