@@ -108,6 +108,14 @@ CV %<>% print_text_block("intro")
 
 
 
+Massive Test Thing {data-icon=database data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('mytest')
+```
+
+
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
