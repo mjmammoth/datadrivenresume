@@ -75,7 +75,7 @@ CV %>% print_contact_info()
 
 
 
-Programming Language Proficiency {#skills}
+Programming {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}
