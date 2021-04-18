@@ -106,7 +106,7 @@ CV %<>% print_section("professional_experience")
 
 
 
-Certificates Awarded {data-icon=graduation-cap}
+Certificates Awarded {data-icon=certificate}
 --------------------------------------------------------------------------------
 
 ::: aside
