@@ -1,4 +1,7 @@
+# Fork Details
+This is my personal fork from Nick Strayer's [datadrivencv](https://github.com/nstrayer/datadrivencv) project.
 
+I have added custom sections and rearranged to my preferences.
 # datadrivencv <img src="man/figures/logo.svg" width="185px" align="right" style="border:1px solid black;">
 
 <!-- badges: start -->

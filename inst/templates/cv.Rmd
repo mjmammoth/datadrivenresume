@@ -106,15 +106,6 @@ CV %<>% print_section("professional_experience")
 
 
 
-Training and Courses Attended {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section("training_attended")
-```
-
-
-
 Certificates Awarded {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
@@ -130,7 +121,7 @@ CV %<>% print_section("certificates_awarded")
 
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Courses and Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
