@@ -121,6 +121,20 @@ CV %<>% print_section("certificates_awarded")
 
 
 
+Selected Projects {data-icon=project-diagram}
+--------------------------------------------------------------------------------
+
+::: aside
+```{r}
+CV %<>% print_text_block("selected_projects_aside")
+```
+:::
+
+```{r}
+CV %<>% print_section("selected_projects")
+```
+
+
 Courses and Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
