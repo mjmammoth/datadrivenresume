@@ -106,15 +106,6 @@ CV %<>% print_section("professional_experience")
 
 
 
-Certifications {data-icon=certificate}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section("certifications")
-```
-
-
-
 Selected Projects {data-icon=project-diagram}
 --------------------------------------------------------------------------------
 
@@ -126,14 +117,6 @@ CV %<>% print_text_block("selected_projects_aside")
 
 ```{r}
 CV %<>% print_section("selected_projects")
-```
-
-
-Courses and Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section("education")
 ```
 
 
