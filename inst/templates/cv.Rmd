@@ -109,12 +109,6 @@ CV %<>% print_section("professional_experience")
 Certifications {data-icon=certificate}
 --------------------------------------------------------------------------------
 
-::: aside
-```{r}
-CV %<>% print_text_block("certifications_aside")
-```
-:::
-
 ```{r}
 CV %<>% print_section("certifications")
 ```
