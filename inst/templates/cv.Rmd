@@ -143,10 +143,3 @@ CV %<>% print_section("education")
 <br>
 <br>
 
-Language {data-icon=language}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section("language")
-```
-
